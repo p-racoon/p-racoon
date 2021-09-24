@@ -44,9 +44,9 @@
 
 
 
-#### Latest Blogpost using RSS
+<!-- #### Latest Blogpost using RSS
 
-Visit this:  https://sametcelikbicak.com/github-action-ile-readme-guncelleme
+Visit this:  https://sametcelikbicak.com/github-action-ile-readme-guncelleme -->
 
 <!-- #### Activity Graph
 
