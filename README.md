@@ -28,6 +28,14 @@
    </tr>
 </table>
 
+#### Shields and Badges
+[![GitHub followers](https://img.shields.io/github/followers/p-racoon?style=social)]()
+[![Years Badge](https://badges.pufler.dev/years/p-racoon)]()
+[![Repos Badge](https://badges.pufler.dev/repos/p-racoon)]()
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/p-racoon)]()
+[![Visits Badge](https://badges.pufler.dev/visits/p-racoon/p-racoon)]()
+[![Twitter Follow](https://img.shields.io/twitter/follow/Prasham09?style=social)](https://twitter.com/Prasham09)
+
 <!-- #### Activity Graph
 
 <div align="center">
