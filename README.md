@@ -28,6 +28,12 @@
    </tr>
 </table>
 
+<!-- #### Activity Graph
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=p-racoon&bg_color=000000&color=e6e3e3&line=ffffff&point=edeff2">
+</div> -->
+
 
 <!--
 **p-racoon/p-racoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
