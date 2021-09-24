@@ -42,6 +42,12 @@
 
 <!-- [![Prasham Ashesh's Dev.to's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getDevBlogs?username=pracoon&type=horizontal)](https://dev.to/pracoon) -->
 
+
+
+#### Latest Blogpost using RSS
+
+Visit this:  https://sametcelikbicak.com/github-action-ile-readme-guncelleme
+
 <!-- #### Activity Graph
 
 <div align="center">
