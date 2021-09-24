@@ -36,6 +36,12 @@
 [![Visits Badge](https://badges.pufler.dev/visits/p-racoon/p-racoon)]()
 [![Twitter Follow](https://img.shields.io/twitter/follow/Prasham09?style=social)](https://twitter.com/Prasham09)
 
+#### Medium Blogs
+
+[![Prasham Ashesh's Medium's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=prasham9.ash&type=vertical)](https://medium.com/@prasham9.ash)
+
+<!-- [![Prasham Ashesh's Dev.to's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getDevBlogs?username=pracoon&type=horizontal)](https://dev.to/pracoon) -->
+
 <!-- #### Activity Graph
 
 <div align="center">
