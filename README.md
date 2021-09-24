@@ -9,7 +9,7 @@
     </td>
     <td>
       <a href="https://prasham.me" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-racoon&theme=github_dark&layout=compact&hide_border=true" alt="Prasham Ashesh's language stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-racoon&theme=github_dark&layout=compact&hide_border=true&exclude_repo=SNPproject,Morphological-Analyzer-for-Sanskrit" alt="Prasham Ashesh's language stats">
       <a/>
     </td>
    </tr>
