@@ -1,3 +1,12 @@
+### Social
+
+<p align="left">
+<a href="https://twitter.com/Prasham09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Prasham's Twitter handle" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/14547423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14547423" height="30" width="40" /></a> -->
+<a href="https://medium.com/@prasham9.ash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Prasham Ashesh's Medium account" height="30" width="40" /></a>
+</p>
+<!-- https://github.com/rahuldkjain/github-profile-readme-generator -->
+
 #### Stats
 
 <table align="center" cellspacing="0" cellpadding="0" border="0">
